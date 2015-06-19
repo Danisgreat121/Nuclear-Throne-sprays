@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+    "$basetexture"	"vgui\logos\ec60b698-a844-44c7-952b-398c340e906c"
+    "$translucent" "1"
+    "$ignorez" "1"
+    "$vertexcolor" "1"
+    "$vertexalpha" "1"
+} 
